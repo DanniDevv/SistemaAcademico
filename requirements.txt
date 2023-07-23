@@ -1,0 +1,6 @@
+django==3.2
+djangorestframework
+django-cors-headers
+pillow
+django-crispy-forms
+crispy-bootstrap4
